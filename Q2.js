@@ -8,7 +8,6 @@ function firstNonRepetedChar(str) {
     }
 return null;
 }
-
 console.log(firstNonRepetedChar("aabbcddffe"));
 
 // Output: c
