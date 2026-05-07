@@ -2,7 +2,6 @@
 function showMarks(marks) {
     const msg = marks ?? "No Marks provided";
     console.log(`Grade: ${msg}`);
-    
 }
 showMarks(90);
 showMarks();
