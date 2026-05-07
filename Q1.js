@@ -10,3 +10,19 @@ for (let index of string) {
     }
 }
 console.log(frequency);
+
+/*Output:
+{
+  M: 1,
+  y: 1,
+  ' ': 4,
+  n: 3,
+  m: 1,
+  e: 1,
+  i: 2,
+  s: 1,
+  u: 2,
+  B: 1,
+  h: 1
+}
+*/
