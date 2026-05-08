@@ -1,4 +1,4 @@
-// EventLoop (Deep UnderStanding)
+// EventLoop (Deep Understanding)
 
 console.log("Start");
 
