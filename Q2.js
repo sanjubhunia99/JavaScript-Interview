@@ -1,5 +1,4 @@
 // first Non Reapeated Char ("aabbcddffe") --> "c"
-
 // Output: c
 
 let str = "aabbcddffe";
@@ -10,7 +9,6 @@ function firstNonRepetedChar(str) {
       return char;
     }
   }
-
   return null;
 }
 
