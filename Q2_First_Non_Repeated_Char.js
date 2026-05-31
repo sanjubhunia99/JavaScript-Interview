@@ -2,6 +2,7 @@
 // Output: c
 
 let str = "aabbcddffe";
+// let str = 'sanjubhunia'
 
 function firstNonRepetedChar(str) {
   for (let char of str) {
